@@ -1,1 +1,2 @@
 apt-get --only-upgrade install docker
+apt-get --only-upgrade install docker-ce
